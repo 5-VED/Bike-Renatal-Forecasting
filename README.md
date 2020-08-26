@@ -1,8 +1,8 @@
 # End to End Project - Bikes Assessment - Basic - Description
 
 ## Table of Content:
-* [Objective](#ovjective)
 * [Overview](#Overview)
+* [DataSet_Features](#DataSet_Features)
 * [Installation](#installation)
 * [Technologies Used](#technologies-used) 
 
