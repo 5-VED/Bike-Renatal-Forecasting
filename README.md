@@ -3,7 +3,7 @@
 ## Table of Content:
 * [Overview](#Overview)
 * [DataSet Features](#DataSet-Features)
-* [Installation](#installation)
+*  [Languages and Libraries](#Languages-and-Libraries)
 * [Technologies Used](#technologies-used) 
 
 ## Overview
@@ -36,3 +36,8 @@
 15. casual: count of casual users
 16. registered: count of registered users
 17. cnt: count of total rental bikes including both casual and registered users
+
+### The 'cnt' is the target variable for this problem
+
+# Languages and Libraries
+![Python 3](https://www.python.org/static/community_logos/python-logo-generic.svg)
