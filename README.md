@@ -40,4 +40,4 @@
 ### The 'cnt' is the target variable for this problem
 
 # Languages and Libraries
-![Python 3](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![Python 3](https://idroot.us/wp-content/uploads/2015/09/python-logo.jpg)
