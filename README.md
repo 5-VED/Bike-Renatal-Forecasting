@@ -44,4 +44,4 @@
 ![Matplotlib](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFVEhBrAKxWTGSXiJ7Cd9TsaM5kpKPVoPkXQ&usqp=CAUg)
 ![ScikitLearn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/200px-Scikit_learn_logo_small.svg.png)
 ![NumPy](https://static.javatpoint.com/tutorial/numpy/images/numpy-tutorial.png)
-![Pandas](https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png/200/200)
+![Pandas](https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png)
