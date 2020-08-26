@@ -8,5 +8,9 @@
 
 ###  Lastly, use the selected model to make final predictions and compare the predicted values with the actual values.
 
-### Below are the details of the features list for the given Bikes data set:
+### This dataset was provided by Hadi Fanaee Tork using data from [Capital Bikeshare](). 
+
+
+
+
 
