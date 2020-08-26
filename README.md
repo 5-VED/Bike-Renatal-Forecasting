@@ -41,3 +41,6 @@
 
 # Languages and Libraries
 ![Python 3](https://idroot.us/wp-content/uploads/2015/09/python-logo.jpg)
+![Matplotlib](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFVEhBrAKxWTGSXiJ7Cd9TsaM5kpKPVoPkXQ&usqp=CAUg)
+![ScikitLearn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/200px-Scikit_learn_logo_small.svg.png)
+
