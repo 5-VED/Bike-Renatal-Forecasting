@@ -1,12 +1,12 @@
 # End to End Project - Bikes Assessment - Basic - Description
 
 ## Table of Content:
+* [Objective](#ovjective)
 * [Overview](#Overview)
 * [Installation](#installation)
-* [Technologies Used](#technologies-used)
+* [Technologies Used](#technologies-used) 
 
 ## Overview
-This is a simple image classification Flask app trained on the top of Keras API. The trained model (`app/model/model.h5`) takes an image (Indian Paper Currency) as an input and predict the class of image from __10, 20, 50, 100, 200, 500, 2000__ denomination.
 
-
-
+### The objective of the project is - using historical usage patterns and weather data, forecast(predict) bike rental demand (number of bike users (‘cnt’)) on hourly basis.
+### This dataset was provided by Hadi Fanaee Tork using data from [Capital Bikeshare](https://www.capitalbikeshare.com/system-data). We also thank the UCI machine learning repository for hosting the dataset.
